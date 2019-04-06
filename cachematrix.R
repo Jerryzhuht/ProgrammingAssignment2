@@ -40,6 +40,3 @@ cacheSolve <- function(x, ...) { ## Return a matrix that is the inverse of 'x'
     inverse.matrix # return inverse matrix
     
 }
-
-cacheSolve(makeCacheMatrix(m))
-
